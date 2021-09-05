@@ -1,6 +1,7 @@
 ###
 #Example
 ###
+# The example data can be downloaded at https://www.jianguoyun.com/p/DeYtp_AQ1bXiCRjXvYwE
 #====0.input====
 load(file = "clusterSig.RData")#genes used to construct cell trajectories
 load(file = "GSE99254/CD8TCellExp.norm.RData") #expression profile and cell annotation
